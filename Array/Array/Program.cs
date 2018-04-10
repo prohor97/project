@@ -38,24 +38,50 @@ namespace Array
                 }
             }
 
-            for (int i = 0; i < n; i++)
+
+            Sort.writeSortArray(mass, n, m);
+
+            int number = 0;
+            bool flag = true;
+           
+            Console.WriteLine("\nСортировка массива:");
+            Console.WriteLine("- Нажмите 0, что бы отсортировать массив по возрастанию.");
+            Console.WriteLine("- Нажмите 1, что бы отсортировать массив по убыванию.");
+
+            while (flag == true)
             {
-                for (int j = 0; j < m; j++)
+                Console.WriteLine("Введите номер сортировки:");
+                number = Convert.ToInt32(Console.ReadKey().Key);
+                Console.WriteLine(number);
+                if (number == 97 || number == 96 || number == 49 || number == 48)
                 {
-                    Console.Write($"{mass[i, j]} \t");
+                    flag = false;
                 }
-                Console.WriteLine();
+                else
+                {
+                    Console.WriteLine("\nСортировка под введённым порядковым номером отсутствует");
+                }
             }
-            
+
+            if (number == 96 || number == 48)
+            {
+                Sort.SortAscending(ref mass, n, m);
+            }
+            else
+            {
+                Sort.SortDescendingly(ref mass, n, m);
+            }
+
             Console.ReadKey();
         }
 
-        static void writeSizeArray(ref int row,ref int colomb)
+        static void writeSizeArray(ref int row,ref int columb)
         {
             Console.WriteLine("Введите количество строк в двумерном массиве:");
             row = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите количество столбцов в двумерном массиве:");
-            colomb = Convert.ToInt32(Console.ReadLine());
+            columb = Convert.ToInt32(Console.ReadLine());
         }
+
     }
 }

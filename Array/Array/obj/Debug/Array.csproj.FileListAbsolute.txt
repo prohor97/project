@@ -12,3 +12,10 @@ C:\Users\anduser\Desktop\Automation\Курсы автоматизации\4. Я�
 C:\Users\anduser\Desktop\Automation\Курсы автоматизации\4. Язык программирования\С#\Задания\Задание 3\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
 C:\Users\anduser\Desktop\Automation\Курсы автоматизации\4. Язык программирования\С#\Задания\Задание 3\Array\Array\obj\Debug\Array.exe
 C:\Users\anduser\Desktop\Automation\Курсы автоматизации\4. Язык программирования\С#\Задания\Задание 3\Array\Array\obj\Debug\Array.pdb
+C:\Users\anduser\Desktop\Automation\project\Array\Array\bin\Debug\Array.exe.config
+C:\Users\anduser\Desktop\Automation\project\Array\Array\bin\Debug\Array.exe
+C:\Users\anduser\Desktop\Automation\project\Array\Array\bin\Debug\Array.pdb
+C:\Users\anduser\Desktop\Automation\project\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\anduser\Desktop\Automation\project\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\anduser\Desktop\Automation\project\Array\Array\obj\Debug\Array.exe
+C:\Users\anduser\Desktop\Automation\project\Array\Array\obj\Debug\Array.pdb
