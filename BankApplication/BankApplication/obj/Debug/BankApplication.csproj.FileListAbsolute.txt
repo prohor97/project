@@ -1,0 +1,10 @@
+C:\Users\anduser\Desktop\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\anduser\Desktop\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\anduser\Desktop\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\anduser\Desktop\BankApplication\BankApplication\bin\Debug\BankLibrary.dll
+C:\Users\anduser\Desktop\BankApplication\BankApplication\bin\Debug\BankLibrary.pdb
+C:\Users\anduser\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.csprojResolveAssemblyReference.cache
+C:\Users\anduser\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\anduser\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CopyComplete
+C:\Users\anduser\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\anduser\Desktop\BankApplication\BankApplication\obj\Debug\BankApplication.pdb

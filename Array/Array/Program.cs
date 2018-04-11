@@ -52,7 +52,6 @@ namespace Array
             {
                 Console.WriteLine("Введите номер сортировки:");
                 number = Convert.ToInt32(Console.ReadKey().Key);
-                Console.WriteLine(number);
                 if (number == 97 || number == 96 || number == 49 || number == 48)
                 {
                     flag = false;
@@ -71,6 +70,10 @@ namespace Array
             {
                 Sort.SortDescendingly(ref mass, n, m);
             }
+
+
+
+            //Sort.writeSortArray(mass, n, m);
 
             Console.ReadKey();
         }
