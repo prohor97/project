@@ -1,0 +1,7 @@
+C:\Users\anduser\Desktop\EqualTrapezoid\EqualTrapezoid\bin\Debug\EqualTrapezoid.exe.config
+C:\Users\anduser\Desktop\EqualTrapezoid\EqualTrapezoid\bin\Debug\EqualTrapezoid.exe
+C:\Users\anduser\Desktop\EqualTrapezoid\EqualTrapezoid\bin\Debug\EqualTrapezoid.pdb
+C:\Users\anduser\Desktop\EqualTrapezoid\EqualTrapezoid\obj\Debug\EqualTrapezoid.csprojResolveAssemblyReference.cache
+C:\Users\anduser\Desktop\EqualTrapezoid\EqualTrapezoid\obj\Debug\EqualTrapezoid.csproj.CoreCompileInputs.cache
+C:\Users\anduser\Desktop\EqualTrapezoid\EqualTrapezoid\obj\Debug\EqualTrapezoid.exe
+C:\Users\anduser\Desktop\EqualTrapezoid\EqualTrapezoid\obj\Debug\EqualTrapezoid.pdb

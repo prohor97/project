@@ -1,0 +1,7 @@
+C:\Users\anduser\Desktop\Money\Money\bin\Debug\Money.exe.config
+C:\Users\anduser\Desktop\Money\Money\bin\Debug\Money.exe
+C:\Users\anduser\Desktop\Money\Money\bin\Debug\Money.pdb
+C:\Users\anduser\Desktop\Money\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\anduser\Desktop\Money\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\anduser\Desktop\Money\Money\obj\Debug\Money.exe
+C:\Users\anduser\Desktop\Money\Money\obj\Debug\Money.pdb
