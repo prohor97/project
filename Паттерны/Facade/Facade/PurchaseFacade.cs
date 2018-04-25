@@ -69,6 +69,7 @@
 
             this.MailBoxPage.AssertUrl();
             this.MailBoxPage.AssertAllElementsIsVisible();
+            this.MailBoxPage.VerifyYourUserName(login);
             this.MailBoxPage.ClickButtonWriteMessegeButton();
 
             this.CreatingMessagePage.AssertUrl();

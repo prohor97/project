@@ -24,5 +24,11 @@ namespace Facade
         {
             this.Map.WriteMessegeButton.Click();
         }
+
+        public void VerifyYourUserName(string userName)
+        {
+            var text = this.Map.UserName.Text;
+            Assert.IsTrue(text.Contains(userName));
+        }
     }
 }
